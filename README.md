@@ -1,4 +1,4 @@
-# practical-statistics-for-data-scientists
+# practical-statistics-for-data-scientists(데이터 과학을 위한 통계)
 
 <img src="https://user-images.githubusercontent.com/79828628/140241180-7df2c020-b38d-460e-8785-6a84da82e57b.jpg" width="370" height="400"/>  
 
@@ -47,7 +47,7 @@ CHAPTER 3 통계적 실험과 유의성검정
 3.8 분산분석  
 3.9 카이제곱검정  
 3.10 멀티암드 밴딧 알고리즘  
-3.11 검정력과 표본크기  
+3.11 검정력과 표본크
 3.12 마치며  
 
 CHAPTER 4 회귀와 예측  
