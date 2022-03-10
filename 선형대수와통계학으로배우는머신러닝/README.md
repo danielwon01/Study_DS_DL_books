@@ -1,6 +1,6 @@
 ## 선형대수와 통계학으로 배는 머신러닝 with 파이썬 
 
-<img src="https://user-images.githubusercontent.com/21074282/105607749-043d8780-5de4-11eb-8811-73d80cf8f3e5.jpg" width="370" height="400"/>  
+<img src="https://user-images.githubusercontent.com/21074282/105607749-043d8780-5de4-11eb-8811-73d80cf8f3e5.jpg" width="400" height="400"/>  
 -------------------------------
 ### 책소개 
 머신러닝에 필요한 선형대수, 통계학, 최적화 이론부터
